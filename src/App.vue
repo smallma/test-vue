@@ -14,6 +14,7 @@
 
     <router-link class="route_link" to="/Cht6" tag="li"><a>Cht6</a></router-link>
 
+  <router-link class="route_link" to="/Cht7" tag="li"><a>Cht7</a></router-link>
     <router-view></router-view>
   </div>
 </template>

@@ -2,6 +2,7 @@
 
 <template>
   <div>
+    <h1>Cht 1 - Introduction</h1>
     <p v-if="isMorning">Good Morning</p>
     <p v-if="isAfternoon">Good Afternoon</p>
 

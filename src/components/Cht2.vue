@@ -1,6 +1,7 @@
 
 <template>
   <div>
+    <h1>Cht 2 - Component</h1>
     <positive-numbers></positive-numbers>
     <color-preview color="red" width-px="300px" height="100px"></color-preview>
     <color-preview color="blue" width-px="100px" height="100px"></color-preview>

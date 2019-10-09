@@ -8,6 +8,7 @@ import Cht3 from '../components/Cht3'
 import Cht4 from '../components/Cht4'
 import Cht5 from '../components/Cht5'
 import Cht6 from '../components/Cht6'
+import Cht7 from '../components/Cht7'
 import Cht5ChildTemplate from '../components/Cht5ChildTemplate'
 import Cht5ChildEmail from '../components/Cht5ChildEmail'
 import Cht5ChildProfile from '../components/Cht5ChildProfile'
@@ -65,6 +66,10 @@ const routes = [
   {
     path: '/Cht6',
     component: Cht6
+  },
+  {
+    path: '/Cht7',
+    component: Cht7
   }
 ]
 

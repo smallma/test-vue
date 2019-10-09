@@ -1,5 +1,6 @@
 <template>
   <div>
+    <h1>Cht 3 - Style</h1>
     <div v-bind:class="[firstClass, secondClass]"></div>
     <div v-bind:class="classes"></div>
 

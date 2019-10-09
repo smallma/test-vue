@@ -1,5 +1,6 @@
 <template>
   <div>
+    <h1>Cht 5 - Router</h1>
     <div>User {{ $route.params.username }}</div>
     <div>ID {{ $route.params.id }}</div>
 
